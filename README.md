@@ -1,5 +1,7 @@
 ## Work In Progress 😄
 
+[link](https://www.linkedin.com/in/stefano-nucida-61b0b662/)
+
 [![Stefano Nucida's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanonucida&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/stefanonucida/)
 
 <!--
