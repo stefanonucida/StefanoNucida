@@ -1,5 +1,7 @@
 ## Work In Progress 😄
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=StefanoNucida) 
+
 [LinkedIn](https://www.linkedin.com/in/stefano-nucida-61b0b662/)
 
 
