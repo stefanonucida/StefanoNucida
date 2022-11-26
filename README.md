@@ -1,15 +1,30 @@
-## Stefano Nucida Work In Progress 😄
+<div align='center'>
+
+# Stefano Nucida 
+## A Life Time Work In Progress 😄 
+
+## See You on LinkedIn
+</br>
+<a href="https://www.linkedin.com/in/stefano-nucida-61b0b662/" target="_blank"><img height="50" src="https://github.com/stefanonucida/StefanoNucida/blob/main/linkedin.png?raw=true"></a>
+</br>
+</br>
+
+## Github Stats 📈
+
+</br>
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanonucida&theme=buefy&bg_color=050505&title_color=10cf53&text_color=ffffff&layout=compact)
+
+</br>
+</br>
+
+![Stefano Nucida's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanonucida&show_icons=true&line_height=27&count_private=true&title_color=10cf53&text_color=ffffff&icon_color=2bbc8a&bg_color=050505&layout=compact) 
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=StefanoNucida)
 
-<p align='center'>
- <a href="https://www.linkedin.com/in/stefano-nucida-61b0b662/" target="_blank"><img height="50" src="https://github.com/stefanonucida/StefanoNucida/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-</p>
-
-
-## Github Stats 📈
-[![Stefano Nucida's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanonucida&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/stefanonucida/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanonucida&theme=buefy&bg_color=050505&title_color=10cf53&text_color=ffffff&layout=compact)](https://github.com/stefanonucida/)
+<div>
  
 <!--
 **stefanonucida/StefanoNucida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
